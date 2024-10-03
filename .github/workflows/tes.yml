@@ -32,3 +32,27 @@ jobs:
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_GCGS1eW294smuRe1Yh7BKnOv3SyU/mMHKm7BRw6
       - name: Run a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_GCGS1eW294smuRe1Yh7BKnOv3SyU/mMHKm7BRw6  
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_jbvZH18LxrhNzNfcwnnzrr5E3eSH/un76p7RR47
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_jbvZH18LxrhNzNfcwnnzrr5E3eSH/un76p7RR47
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_OWF68R6SP23ePpqMBeOgRQLgFuKM/IYo1QLAfFW
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_OWF68R6SP23ePpqMBeOgRQLgFuKM/IYo1QLAfFW
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_GCGS1eW294smuRe1Yh7BKnOv3SyU/mMHKm7BRw6
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_GCGS1eW294smuRe1Yh7BKnOv3SyU/mMHKm7BRw6  
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_3tGeVp0z2WGgA9DXXh2FcWokBb7n/zMGoozovYD
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_3tGeVp0z2WGgA9DXXh2FcWokBb7n/zMGoozovYD
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_OWF68R6SP23ePpqMBeOgRQLgFuKM/IYo1QLAfFW
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_OWF68R6SP23ePpqMBeOgRQLgFuKM/IYo1QLAfFW
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_GCGS1eW294smuRe1Yh7BKnOv3SyU/mMHKm7BRw6
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_GCGS1eW294smuRe1Yh7BKnOv3SyU/mMHKm7BRw6  
